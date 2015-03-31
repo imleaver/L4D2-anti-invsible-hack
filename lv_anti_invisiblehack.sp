@@ -49,3 +49,5 @@ bool:IsValidClients(client)
 
 	return (IsClientInGame(client) && !IsFakeClient(client));
 }
+
+///testing nia
